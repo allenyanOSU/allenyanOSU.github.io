@@ -2,7 +2,7 @@
 title: "Forensics for Adversarial Machine Learning through Attack Mapping Identification"
 collection: publications
 permalink: /publication/2023-attack-mapping-forensics
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper proposes an attack mapping identification method that utilizes a pre-attack example recovery mechanism as a feature extraction method for performing post-attack forensic analysis of test-time adversarial attacks.'
 date: 2009-10-01
 venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing, 2023'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
