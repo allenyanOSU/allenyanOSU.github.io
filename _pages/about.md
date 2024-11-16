@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year computer science Ph.D. student at Oregon State University. My advisors are Dr. Jinsub Kim and Dr. Raviv Raich. My research focus is in adversarial machine learning, in particular defensive countermeasures and forensics analysis for test-time adversarial attacks on neural networks.
+I am a fourth year computer science Ph.D. student at Oregon State University. My advisors are Dr. Jinsub Kim and Dr. Raviv Raich. My research focus is in adversarial machine learning, in particular defensive countermeasures and forensics analysis for test-time adversarial attacks on neural networks.
 
 <!-- A data-driven personal website
 ======
