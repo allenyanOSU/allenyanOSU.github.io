@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Electrical & Computer Engineering, Baylor University, 2021
-* Ph.D in Computer Science, Oregon State University, 2026 (expected)
+* Ph.D in Computer Science & Artificial Intelligence, Oregon State University, 2026 (expected)
 
 Work experience
 ======
